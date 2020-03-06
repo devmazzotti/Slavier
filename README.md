@@ -7,14 +7,14 @@ All u need is in the Code, but anyway... Here's a short tutorial
 
 # Configurations(..)
 
-U Just have to put your Local Ip and your port(u van Just imagine one.. It doesnt matter ) in Server.py
+U Just have to put your Local Ip and your port(u can Just imagine one.. It doesnt matter ) in Server.py.
 Then you have to do the same with the Client.py
 
 # Running (..)
 
 1- Open Server.py
 2- Now u have to use pyinstaller and make a .exe of client.py, then u send It to the "victim".
-3- The victim needs the Open the client.exe once ( i assume you'll change the filename...)
+3- The victim needs to open the client.exe once ( i assume you'll change the filename...)
 
 
 
