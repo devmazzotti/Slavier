@@ -4,5 +4,5 @@ As u can see, there's nothing big. Be free by adding anything you want :D
 
 All u need is in the Code, so i think there's no Tutorial needed.
 
-if is there any question, u can text me.
+if there's any question, u can text me.
 devmazzotti@gmail.com
